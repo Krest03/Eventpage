@@ -9,28 +9,25 @@ header{
 	box-shadow: 0px 0px 15px #434F5B;
   }
 header h1{
-	color:#212A3F;
+  color:#212A3F;
   font-size: 45px;
   font-weight: 1;
   }
- p{
-	color: red;
-	font-size: x-small;
-}
+ 
 body{
 	background-color: #F2F2F2;
 }
 .firstnav{
 	font-family:  'Dancing Script', cursive;
 	width: 415px;
-background-color: #434F5B;
-text-align: center;
-margin: auto;
-font-size: 25px;
-font-style: italic;
-text-transform: lowercase;
-height: 50px;
-word-spacing: 20px ;
+    background-color: #434F5B;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    font-style: italic;
+    text-transform: lowercase;
+    height: 50px;
+    word-spacing: 20px ;
 }
 body h1,h2{
 	text-align: center;
